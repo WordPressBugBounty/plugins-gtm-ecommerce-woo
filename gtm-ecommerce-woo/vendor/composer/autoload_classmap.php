@@ -16,6 +16,7 @@ return array(
     'GtmEcommerceWoo\\Lib\\Service\\EventInspectorService' => $baseDir . '/src/Service/EventInspectorService.php',
     'GtmEcommerceWoo\\Lib\\Service\\EventStrategiesService' => $baseDir . '/src/Service/EventStrategiesService.php',
     'GtmEcommerceWoo\\Lib\\Service\\GtmSnippetService' => $baseDir . '/src/Service/GtmSnippetService.php',
+    'GtmEcommerceWoo\\Lib\\Service\\OrderDiagnosticsService' => $baseDir . '/src/Service/OrderDiagnosticsService.php',
     'GtmEcommerceWoo\\Lib\\Service\\PluginService' => $baseDir . '/src/Service/PluginService.php',
     'GtmEcommerceWoo\\Lib\\Service\\ProductFeedService' => $baseDir . '/src/Service/ProductFeedService.php',
     'GtmEcommerceWoo\\Lib\\Service\\SettingsService' => $baseDir . '/src/Service/SettingsService.php',
