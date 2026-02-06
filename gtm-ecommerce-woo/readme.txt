@@ -2,7 +2,7 @@
 Contributors: tagconcierge
 Tags: google tag manager, GA4, WooCommerce, Facebook Pixel, Consent Mode
 Requires at least: 5.1.0
-Tested up to: 6.8.1
+Tested up to: 6.9
 Requires PHP: 7.0
 Stable tag: 1.12.12
 License: GPLv2 or later
@@ -42,7 +42,8 @@ After the plugin is installed it automatically tracks the following events:
 
 Which are a great base for **conversion measurements** and analysing **sales funnels** related to cart behavior.
 
-**For full eCommerce events coverage, improved handling and professional support [buy PRO version](https://tagconcierge.com/google-tag-manager-for-woocommerce/).**
+**For full eCommerce events coverage, improved handling and professional support, [buy PRO version](https://tagpilot.io/google-tag-manager-for-woocommerce/?utm_source=wordpress_org). You can also subscribe to our [Tag Pilot Care](https://tagpilot.io/care/?utm_source=wordpress_org) support service for ongoing assistance, expert guidance, and priority help whenever you need it.**
+
 
 ## PRO Version
 
@@ -162,6 +163,15 @@ Yes! Just use the appropriate preset available in the settings screen of the plu
 
 
 == Changelog ==
+
+= 1.13.1 =
+
+* tested against the latest versions of WordPress and WooCommerce
+
+= 1.13.0 =
+
+* add `content_type` property to event's items
+* tested against the latest versions of WordPress and WooCommerce
 
 = 1.12.12 =
 
